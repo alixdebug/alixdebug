@@ -1,8 +1,8 @@
--👋 Hi, I’m @alixdebug
--👀 I’m interested in 3d, games and developement
--🌱 I’m currently learning lot of things
--💞️ I’m looking to collaborate on anything I can help with.
--📫 How to reach me, juct call me 😂
+- 👋 Hi, I’m @alixdebug
+- 👀 I’m interested in 3d, games and developement
+- 🌱 I’m currently learning lot of things
+- 💞️ I’m looking to collaborate on anything I can help with.
+- 📫 How to reach me, juct call me 😂
 
 <!---
 alixdebug/alixdebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
